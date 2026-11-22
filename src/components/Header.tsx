@@ -25,14 +25,14 @@ export const Header: React.FC = () => {
                 COMMUNITY POLICING — REVISION & EXAM
               </h1>
               <p className="text-xs sm:text-sm font-medium text-slate-300 tracking-wider uppercase mt-0.5">
-                2025 | NPC MC KIGANJO | MANUAL FOR ORDINARY SOIP COURSE
+                2025 | REVISION MANUAL 
               </p>
             </div>
           </div>
 
           <div className="flex items-center gap-2 text-xs text-amber-200 bg-amber-950/40 border border-amber-500/30 px-3 py-1.5 rounded-lg">
             <GraduationCap className="w-4 h-4 text-amber-400" />
-            <span className="font-semibold">SOIP Course Exam Revision</span>
+            <span className="font-semibold">Exam Revision</span>
           </div>
         </div>
 
